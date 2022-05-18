@@ -358,13 +358,13 @@ footer a {
     
 }
 .Project-1 {
-    background-image: url(assets/images/.Project-1.jpg);
+    background-image: url(/Users/webdeveloper/Desktop/portfolio/assets/images/pinkgoogle.jpg);
 }
 .Project-2 {
-    background-image: url(../images/trainer-2.jpg);
+    background-image: url(/Users/webdeveloper/Desktop/portfolio/assets/images/pinkplaystation.jpg);
 }
 .Project-3 {
-    background-image: url(../images/trainer-3.jpg);
+    background-image: url(/Users/webdeveloper/Desktop/portfolio/assets/images/pinkmarvel.jpg);
 }
 .Project-img {
     width: 100%;
