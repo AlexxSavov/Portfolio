@@ -9,12 +9,10 @@
     box-sizing: border-box;
 }
 body {
-    color: var(--primary-color);
+    color: rgb(144 239 0);
     font-family: Helvetica, Arial, sans-serif;
     font-size: large;
     background-color: #000000;
-     
-    
 }
 
 /*Header styling */
@@ -253,7 +251,7 @@ footer a {
     
 }
 .hero-cta img {
-    align-content: center;
+    align-content: left;
 }
 
 }
@@ -554,6 +552,13 @@ footer a {
 
     .contact-info iframe {
         flex: 1 100%;
+
+    body {
+            /* color: rgb(164 249 6); */
+            font-family: Helvetica, Arial, sans-serif;
+            font-size: large;
+            background-color: #000000;
+        }
     }
 }
 
@@ -581,11 +586,11 @@ footer a {
         margin-bottom: 15px;
     }
 
-    .Project-img::after, .trainer-img h3, .trainer-img h4 {
+    .Project-img::after, .project-img h3, .project-img h4 {
         display: none;
     }
 
-    .Project-info h3, .trainer-bio h4 {
+    .Project-info h3, .Project-info h4 {
         display: block;
     }
 
