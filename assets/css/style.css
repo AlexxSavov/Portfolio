@@ -9,7 +9,7 @@
     box-sizing: border-box;
 }
 body {
-    color: rgb(239, 0, 175);
+    color: rgb(0, 0, 0);
     font-family: Helvetica, Arial, sans-serif;
     font-size: large;
     background-color: #000000;
@@ -358,7 +358,7 @@ footer a {
     
 }
 .Project-1 {
-    background-image: url(/Users/webdeveloper/Desktop/portfolio/assets/images/pinkgoogle.jpg);
+    background-image: url(//https://www.google.com/");
 }
 .Project-2 {
     background-image: url(/Users/webdeveloper/Desktop/portfolio/assets/images/pinkplaystation.jpg);
