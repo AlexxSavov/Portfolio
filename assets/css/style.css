@@ -9,7 +9,7 @@
     box-sizing: border-box;
 }
 body {
-    color: rgb(144 239 0);
+    color: rgb(239, 0, 175);
     font-family: Helvetica, Arial, sans-serif;
     font-size: large;
     background-color: #000000;
@@ -458,6 +458,7 @@ footer a {
     line-height: 1.5;
     font-size: 16px;
     font-style: normal;
+    color: #f10a9c;
 }
 .contact-info a {
     color: var(--primary-color);
@@ -554,7 +555,7 @@ footer a {
         flex: 1 100%;
 
     
-            color: rgb(164 249 6); */
+            color: rgb(249, 6, 196); */
             font-family: Helvetica, Arial, sans-serif;
             font-size: large;
             background-color: #000000; 
