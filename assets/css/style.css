@@ -158,7 +158,7 @@ footer a {
     margin: 0 5px;
 }
 
-}
+
 .hero-form button {
     color: var(--primary-color);
     background-color: var(--secondary-color);
@@ -185,7 +185,7 @@ footer a {
     content: "";
     height: 20px;
     width: 20px;
-    background: var(--primary-color)
+    background: var(--primary-color);
     border: 1px solid var(--secondary-color);
     position: absolute;
     top: -4px;
@@ -231,7 +231,7 @@ footer a {
     width: 35%;
     text-align: left;
     margin: 3.5%;
-    color: rgb(144, 239, 0)
+    color: rgb(144, 239, 0);
     line-height: 1.2;
 }
 .hero-cta h2 {
@@ -254,14 +254,14 @@ footer a {
     align-content: left;
 }
 
-}
+
 
 
 /*Intro */
 
 .section-title {
     font-size: 48px;
-    color: rgb(145, 255, 0)
+    color: rgb(145, 255, 0);
     border-bottom: 3px solid;
     padding-bottom: 20px;
     text-align: center;
@@ -281,7 +281,7 @@ footer a {
 }
 .intro p {
     line-height: 1.7;
-    color: var var(--secondary-color)
+    color: var var(--secondary-color);
     width: 80%;
     font-size: 22px;
     text-shadow: #fa00ed;
@@ -358,13 +358,14 @@ footer a {
     
 }
 .Project-1 {
-    background-image: url(//https://www.google.com/");
+    background-image: url("//https://www.google.com/");
 }
+
 .Project-2 {
-    background-image: url(/Users/webdeveloper/Desktop/portfolio/assets/images/pinkplaystation.jpg);
+    background-image: url("./assets/images/pinkplaystation.jpg");
 }
 .Project-3 {
-    background-image: url(/Users/webdeveloper/Desktop/portfolio/assets/images/pinkmarvel.jpg);
+    background-image: url("./assets/images/pinkmarvel.jpg");
 }
 .Project-img {
     width: 100%;
@@ -444,7 +445,7 @@ footer a {
     height: 400px;
 }
 .contact-info div {
-    color:var(--primary-color)
+    color:var(--primary-color);
     text-shadow: 0 0 25px rgb(254 0 233);
 }
 .contact-info h3 {
@@ -452,7 +453,7 @@ footer a {
     font-size: 32px;
     text-shadow: 0 0 25px rgb(254 0 233);
 }
-}
+
 .contact-info p, .contact-info address {
     margin: 20px 0;
     line-height: 1.5;
@@ -485,7 +486,7 @@ footer a {
     background-color: var(--primary-color)
 }
 .contact-form input:focus, .contact-form textarea:focus {
-    background-color: var(--primary-color)
+    background-color: var(--primary-color);
     outline: none;
 }
 .contact-form button {
@@ -555,7 +556,7 @@ footer a {
         flex: 1 100%;
 
     
-            color: rgb(249, 6, 196); */
+            color: rgb(249, 6, 196); 
             font-family: Helvetica, Arial, sans-serif;
             font-size: large;
             background-color: #000000; 
@@ -564,7 +565,7 @@ footer a {
     
     
     }
-}
+
 
 /*Media query for tablets */
 @media screen and (max-width: 768px) {
